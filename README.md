@@ -1,10 +1,10 @@
-The following is developed on the top of https://github.com/cambridge-mlg/DUN 
+Our models are developed using the existing code from https://github.com/cambridge-mlg/DUN 
 
 The code from https://github.com/juntang-zhuang/torch_ACA is used to train our models using Dopri5 numerical method.
 
 
 
-Train the models on all the datasets with different seed values(0,1,2,3,4)
+
 
 
 1. Install the required packages provided in requirements.txt file 
